@@ -1,0 +1,11 @@
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\SIRPIS.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\SIRPIS.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\Comun.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\Controlador.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\DAO.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\Comun.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\Controlador.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\bin\DAO.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\obj\Debug\SIRPIS.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\obj\Debug\SIRPIS.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\SIRPIS\obj\Debug\SIRPIS.pdb

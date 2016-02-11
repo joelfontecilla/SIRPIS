@@ -1,0 +1,9 @@
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\bin\Debug\Controlador.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\bin\Debug\Controlador.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\bin\Debug\Comun.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\bin\Debug\DAO.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\bin\Debug\Comun.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\bin\Debug\DAO.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\obj\Debug\Controlador.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Controlador\obj\Debug\Controlador.pdb

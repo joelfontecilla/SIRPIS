@@ -1,0 +1,7 @@
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Comun\bin\Debug\Comun.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Comun\bin\Debug\Comun.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Comun\obj\Debug\Comun.Recursos.ConfigurationSIRPIS.resources
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Comun\obj\Debug\Comun.csproj.GenerateResource.Cache
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Comun\obj\Debug\Comun.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\Comun\obj\Debug\Comun.pdb

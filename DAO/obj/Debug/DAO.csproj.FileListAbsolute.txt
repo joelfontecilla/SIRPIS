@@ -1,0 +1,7 @@
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\DAO\bin\Debug\DAO.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\DAO\bin\Debug\DAO.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\DAO\bin\Debug\Comun.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\DAO\bin\Debug\Comun.pdb
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\DAO\obj\Debug\DAO.dll
+C:\Aplicaciones\Javier\Pasantia\SystemIntegrationRPIS\DAO\obj\Debug\DAO.pdb

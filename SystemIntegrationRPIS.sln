@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIRPIS", "SIRPIS\SIRPIS.csproj", "{F5BB1595-5321-4E7B-B53E-2DC7A816B1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comun", "Comun\Comun.csproj", "{B1CFA2A2-23C6-46BE-B4A5-5F35994257E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{5223BD8D-0F8E-4FED-879F-35B4C8B13193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{E5E235E0-DC40-4571-8141-A10D91687E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BB1595-5321-4E7B-B53E-2DC7A816B1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB1595-5321-4E7B-B53E-2DC7A816B1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB1595-5321-4E7B-B53E-2DC7A816B1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB1595-5321-4E7B-B53E-2DC7A816B1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CFA2A2-23C6-46BE-B4A5-5F35994257E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CFA2A2-23C6-46BE-B4A5-5F35994257E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CFA2A2-23C6-46BE-B4A5-5F35994257E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CFA2A2-23C6-46BE-B4A5-5F35994257E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5223BD8D-0F8E-4FED-879F-35B4C8B13193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5223BD8D-0F8E-4FED-879F-35B4C8B13193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5223BD8D-0F8E-4FED-879F-35B4C8B13193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5223BD8D-0F8E-4FED-879F-35B4C8B13193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E235E0-DC40-4571-8141-A10D91687E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E235E0-DC40-4571-8141-A10D91687E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E235E0-DC40-4571-8141-A10D91687E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E235E0-DC40-4571-8141-A10D91687E24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
