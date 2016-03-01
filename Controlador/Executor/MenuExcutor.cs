@@ -34,5 +34,7 @@ namespace Controlador.Executor
 
             return deparments;
         }
+
+        public void menu() { }
     }
 }
